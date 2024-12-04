@@ -18,9 +18,26 @@ body {
     display: flex;
   }
   
-  /* Sidebar */
+  
   .sidebar {
     width: 250px;
     background-color: #2c3e50;
     color: #ecf0f1;
     padding: 2}
+    recent users{
+        display: flex;
+        flex-direction: row;
+        
+    }
+    image{
+        display: flex;
+        flex-direction: row;
+        fo
+    }
+
+
+
+
+
+
+    
