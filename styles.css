@@ -30,12 +30,16 @@ body {
         
     }
     image{
-        display: flex;
-        flex-direction: row;
-        fo
+        display: block;
+        flex-direction:row;
+        display: inline;
+        
     }
 
+table{
+  display: flex;
 
+}
 
 
 
